@@ -1,0 +1,5 @@
+name=input("enter your name :")
+age = input("enter your age :")
+per= input("enter your per :")
+you_are_oxford_student=bool(input("True False :"))
+print("my name is ",name,"i am",age," years old","my 12th percentage",per)
